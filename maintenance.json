@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "Kullanıcı deneyimini iyleştirmek ve yeni özellikler eklemek için kısa bir süre için bakımdayız. Akşam saatlerinde tekrar deneyiniz."
+  "maintenance": true,
+  "message": "Beklenmeyen bazı aksaklıklardan dolayı geçici süreliğine uygulama bakımdadır."
 }
