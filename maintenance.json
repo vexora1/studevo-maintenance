@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "Beklenmeyen bazı aksaklıklardan dolayı geçici süreliğine uygulama bakımdadır."
+  "maintenance": true,
+  "message": "Hizmet sağlayıcılarından kaynaklı problemlerden dolayı kısa süreliğine uygulamamız kullanıma kapalıdır."
 }
