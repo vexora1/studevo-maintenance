@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "Beklenmeyen bir hata kaynaklı uygulama kısa süreliğine erişime kapalıdır Anlayışınız için teşekkürler."
+  "maintenance": true,
+  "message": "Sizlere daha iyi hizmet sağlayabilmek için altyapı değişikliği yapıyoruz. Gün içerisinde uygulama tekrardan erişime açılacaktır."
 }
