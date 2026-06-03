@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "Beklenmeyen bir problemle karşılaştık. Sorunu düzeltiyoruz. Anlayışınız için teşekkürler."
+  "maintenance": true,
+  "message": "Birkaç dakika sonra tekrar deneyin."
 }
