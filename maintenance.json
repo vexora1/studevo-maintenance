@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "Birkaç dakika sonra tekrar deneyin."
+  "maintenance": true,
+  "message": "Sizlere daha iyi hizmet vermek için çalışıyoruz. Uygulama gün içinde tekrardan erişilebilir olacaktır. İlginiz için teşekkürler."
 }
